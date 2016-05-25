@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>missile.png</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2014-12-01T10:29:28.6697809-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ship2.png</Source>
+      <Name>ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\ship2.xnb</Output>
+      <Time>2014-12-01T10:29:34.3601064-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Stars.jpg</Source>
+      <Name>Stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Stars.xnb</Output>
+      <Time>2014-12-01T10:29:38.0193157-06:00</Time>
+    </Item>
+    <Item>
+      <Source>alien.png</Source>
+      <Name>alien</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\alien.xnb</Output>
+      <Time>2014-12-04T22:45:41-06:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScreen.png</Source>
+      <Name>StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\StartScreen.xnb</Output>
+      <Time>2014-12-02T22:02:15.0411395-06:00</Time>
+    </Item>
+    <Item>
+      <Source>alien2.png</Source>
+      <Name>alien2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\alien2.xnb</Output>
+      <Time>2014-12-04T20:42:33-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb3.png</Source>
+      <Name>bomb3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\bomb3.xnb</Output>
+      <Time>2014-12-04T23:29:07-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tyler\Google Drive\School\Sophmore\Fall\OOP\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-01T10:10:42.1053451-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
