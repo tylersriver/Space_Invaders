@@ -14,10 +14,10 @@ namespace SpaceInvaders
 {
     class Alien
     {
-        public Rectangle _pos;                              //Rectangle for the position
-        public static Texture2D Texture { get; set; }       //Texture for the picture
-        public bool hit = false;                            //Boolean for the if it has been hit
-        public int MOVE_SPEED = 1;                         //Integer for the move speed (20)
+        public Rectangle _pos;                              // Rectangle for the position
+        public static Texture2D Texture { get; set; }       // Texture for the picture
+        public bool hit = false;                            // Boolean for the if it has been hit
+        public int MOVE_SPEED = 1;                          // Integer for the move speed (20)
             
 
         //Constructor that takes a rectangle
